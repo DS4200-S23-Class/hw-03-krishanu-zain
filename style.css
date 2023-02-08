@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+.row {
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.col {
+  padding: 10px;
+}
